@@ -60,3 +60,6 @@ venv.bak/
 
 # mkdocs documentation 
 /site 
+
+# repl scratchpad
+scratch.py
